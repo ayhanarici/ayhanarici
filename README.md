@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
 -->
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&theme=blue-green)](https://github.com/ayhanarici/github-readme-stats)
+[![ayhanarici's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&theme=blue-green)](https://github.com/ayhanarici/github-readme-stats)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ayhanarici&show_icons=true&theme=radical)
