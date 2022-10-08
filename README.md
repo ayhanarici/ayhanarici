@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **ayhanarici/ayhanarici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&theme=blue-green)](https://github.com/ayhanarici/github-readme-stats)
 -->
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=ayhanarici&show_icons=true&theme=radical)
