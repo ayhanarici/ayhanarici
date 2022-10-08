@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/ayhanarici/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&theme=blue-green" />
 </a>
 <a href="#">
