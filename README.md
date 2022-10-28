@@ -32,9 +32,11 @@ C, C++, C#, Visual Basic, Java, Javascript, Python, Qt, Android Studio,  ASP.Net
 I am currently working as a Computer Programmer at Çankaya University. I especially like to work on embedded software, machine learning, artificial intelligence, computer vision, big data. My goal is to design and manufacture systems that are used to facilitate people's everyday needs...
 
 
+
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="max-width: 100%;" />
 </a>
+
