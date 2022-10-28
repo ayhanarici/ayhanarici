@@ -31,14 +31,14 @@ C, C++, C#, Visual Basic, Java, Javascript, Python, Qt, Android Studio,  ASP.Net
 
 I am currently working as a Computer Programmer at Çankaya University. I especially like to work on embedded software, machine learning, artificial intelligence, computer vision, big data. My goal is to design and manufacture systems that are used to facilitate people's everyday needs...
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-  <p dir="auto">
+
+<p dir="auto">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&show_icons=true&amp;locale=en&amp;layout=compact" style="object-fit: contain;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&show_icons=true&amp;locale=en&amp;layout=compact" style="object-fit: contain;max-width: 100%;max-height:100%;" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="object-fit: contain;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="object-fit: contain;max-width: 100%; max-height:100%;" />
 </a>
 </p>
-</article>
+
