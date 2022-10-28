@@ -34,12 +34,11 @@ I am currently working as a Computer Programmer at Çankaya University. I especi
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <p dir="auto">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%; " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&show_icons=true&amp;locale=en&amp;layout=compact" style="object-fit: contain;" />
 </a>
-
-
+&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="max-width: 100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="object-fit: contain;" />
 </a>
 </p>
 </article>
