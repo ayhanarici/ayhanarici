@@ -38,7 +38,7 @@ I am currently working as a Computer Programmer at Çankaya University. I especi
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="object-fit: contain;max-width: 100%; max-height:100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhanarici&amp;show_icons=true&amp;locale=en" style="object-fit: contain;max-width: 500%; max-height:100%;" />
 </a>
 </p>
 
