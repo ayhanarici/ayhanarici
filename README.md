@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![ayhanarici's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&theme=blue-green)](https://github.com/ayhanarici/github-readme-stats)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ayhanarici&show_icons=true&theme=radical)
--->
+
 I started my computer adventure in 1996 by learning MS-DOS, Basic, Cobol and Fortran languages. Then, I taught Operating Systems, Server Systems, Networking, Web Design, Clipper, Visual Basic, Delphi, Pascal, Basic Information Technologies and Management Information Systems courses in a private educational institution for 15 years. I enrolled in Afyon Kocatepe University Computer Programming Department in 2013. I graduated in 2015 as <b>the first of the department</b>. I enrolled in the Department of Computer Engineering at Çankaya University in 2018 and graduated in 2022 with a <b>CumGPA of 3.15</b>.
 
 My background includes:<p>
@@ -32,7 +32,7 @@ C, C++, C#, Visual Basic, Java, Javascript, Python, Qt, Android Studio,  ASP.Net
 I am currently working as a Computer Programmer at Çankaya University. I especially like to work on embedded software, machine learning, artificial intelligence, computer vision, big data. My goal is to design and manufacture systems that are used to facilitate people's everyday needs...
 
 <p dir="auto">
-
+-->
 <a href="#">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhanarici&show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;height:150px;" />
